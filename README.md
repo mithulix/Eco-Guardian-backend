@@ -64,7 +64,7 @@ To start the Earth Cleaner application, use the following command:
 yarn start
 ```
 
-By default, the application will run on `http://localhost:3000`.
+By default, the application will run on `http://localhost:5000`.
 
 ## Scripts
 
@@ -90,7 +90,3 @@ This project is licensed under the ISC License. For more details, see the [LICEN
 ## Acknowledgments
 
 Thank you to all the contributors who have helped make Earth Cleaner possible.
-
----
-
-For more information and documentation, visit the [Earth Cleaner GitHub repository](https://github.com/yourusername/earth-cleaner).
