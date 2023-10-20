@@ -6,8 +6,8 @@ import mongoose from 'mongoose';
 async function bootstrap() {
   mongoose
     .connect(config.database_url as string)
-    .then(() => console.log('😂 Database connected successfully'))
-    .catch(error => console.log(`😭 Failed to connect Database ${error}`));
+    .then(() => console.log('😂 Database connected successfully...'))
+    .catch(error => console.log(`😭 Failed to connect Database ${error}...`));
 
   const server: Server = app.listen(config.port, () => {
     console.log(`Server running on port ${config.port}`);
