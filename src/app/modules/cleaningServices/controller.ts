@@ -16,7 +16,7 @@ const createCleaningService: RequestHandler = catchAsync(async (req, res) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Cleaning Service created successfully✅',
+    message: 'Cleaning Service created successfully',
     data: result,
   });
 });

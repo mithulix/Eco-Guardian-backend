@@ -1,8 +1,8 @@
-# Earth Cleaner (Version 1.0.0)
+# Eco Guardian (Version 1.0.0)
 
-backend server - [https://earth-cleaner-backend-seven.vercel.app/](https://earth-cleaner-backend-seven.vercel.app/)
+backend server - [https://eco-guardian-backend-seven.vercel.app/](https://eco-guardian-backend-seven.vercel.app/)
 
-**Earth Cleaner** is a project aimed at building a solution for cleaning and maintaining the environment. This repository contains the source code for the Earth Cleaner application.
+**Eco Guardian** is a project aimed at building a solution for cleaning and maintaining the environment. This repository contains the source code for the Eco Guardian application.
 
 ## Table of Contents
 
@@ -18,11 +18,11 @@ backend server - [https://earth-cleaner-backend-seven.vercel.app/](https://earth
 
 ## Introduction
 
-Earth Cleaner is a web application built using Node.js and TypeScript. It provides various features and tools for environmental maintenance and sustainability. The project includes components for handling user authentication, data management, and more.
+Eco Guardian is a web application built using Node.js and TypeScript. It provides various features and tools for environmental maintenance and sustainability. The project includes components for handling user authentication, data management, and more.
 
 ## Getting Started
 
-To get started with the Earth Cleaner project, follow the instructions below.
+To get started with the Eco Guardian project, follow the instructions below.
 
 ### Prerequisites
 
@@ -38,8 +38,8 @@ Before you begin, ensure you have the following prerequisites installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/earth-cleaner.git
-   cd earth-cleaner
+   git clone https://github.com/yourusername/EcoGuardian.git
+   cd EcoGuardian
    ```
 
 2. Install project dependencies:
@@ -58,7 +58,7 @@ Before you begin, ensure you have the following prerequisites installed:
 
 ### Usage
 
-To start the Earth Cleaner application, use the following command:
+To start the Eco Guardian application, use the following command:
 
 ```bash
 yarn start
@@ -81,7 +81,7 @@ This project includes several useful scripts:
 
 ## Contributing
 
-Contributions to Earth Cleaner are welcome! Please follow the project's guidelines and best practices when submitting issues or pull requests.
+Contributions to Eco Guardian are welcome! Please follow the project's guidelines and best practices when submitting issues or pull requests.
 
 ## License
 
@@ -89,4 +89,4 @@ This project is licensed under the ISC License. For more details, see the [LICEN
 
 ## Acknowledgments
 
-Thank you to all the contributors who have helped make Earth Cleaner possible.
+Thank you to all the contributors who have helped make Eco Guardian possible.

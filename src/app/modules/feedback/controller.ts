@@ -23,7 +23,7 @@ const getFeedbacks: RequestHandler = catchAsync(async (req, res) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Feedbacks data fetched successfully',
+    message: 'Feedback data fetched successfully',
     data: result,
   });
 });

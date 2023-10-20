@@ -72,7 +72,7 @@ const deleteReview: RequestHandler = catchAsync(async (req, res) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Admin created successfully',
+    message: 'Review Deleted successfully',
     data: result,
   });
 });

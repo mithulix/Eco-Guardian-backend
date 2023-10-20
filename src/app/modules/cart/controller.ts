@@ -26,7 +26,7 @@ const getCarts: RequestHandler = catchAsync(async (req, res) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Carts data fetched successfully',
+    message: 'Cart data fetched successfully',
     data: result,
   });
 });
@@ -38,7 +38,7 @@ const getCartsByServiceId: RequestHandler = catchAsync(async (req, res) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Carts data fetched successfully',
+    message: 'Cart data fetched successfully',
     data: result,
   });
 });
@@ -50,7 +50,7 @@ const deleteCart: RequestHandler = catchAsync(async (req, res) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Carts data deleted successfully',
+    message: 'Cart data deleted successfully',
     data: result,
   });
 });

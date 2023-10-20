@@ -18,13 +18,13 @@ app.use('/api/v1', routes);
 
 // Api route entry point
 app.get('/', (req, res) => {
-  const earthCleaner = `
+  const EcoGuardian = `
   <div style="text-align: center; font-family: Poppins, sans-serif;">
       <p style="font-size: 10rem;"> 🌏💧🏝🌏</p>
-      <p style="font-size: 35px;"> Welcome to Earth Cleaner Backend. </p>
+      <p style="font-size: 35px;"> Welcome to Eco Guardian Backend. </p>
   </div>
 `;
-  res.send(earthCleaner);
+  res.send(EcoGuardian);
 });
 
 //global error handler
